@@ -104,23 +104,4 @@ streamlit run app.py
 - ✅ Missing Keywords
 - ✅ Improvement Suggestions
 
----
-
-## 📸 Screenshots
-![ATS Output](screenshots/scr1.png)
-![ATS Output](screenshots/scr2.png)
-![ATS Output](screenshots/scr3.png)
-
----
-
-## 🎯 Future Improvements
-- Skill extraction using predefined skill database
-- PDF report generation
-- Resume section detection (Education, Skills, Experience)
-- Deployment on Streamlit Cloud
-
-BERT-based semantic matching for better scoring
-
-👨‍💻 Author
-Shrihari Padatare
-GitHub: https://github.com/iamshrihari
+-
